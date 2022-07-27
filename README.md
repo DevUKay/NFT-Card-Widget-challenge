@@ -46,4 +46,4 @@ Users should be able to:
 
 ## Acknowledgments
 
-My grateful to me for not giving up, lol the battle for the repo to online was real hahhaha, but yea,i finally did it. so enjoy.
+My grateful to me for not giving up, lol the battle for this repo to upload on git was real, but yea, i finally did it. so enjoy.
