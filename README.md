@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [My GitHub Page](https://github.com/DevUKay/NFT-Card-Widget-challenge.git)
-- Live Site URL: [My Live Design]https://devukay.github.io/NFT-Card-Widget-challenge/)
+- Live Site URL: [My Live Design](https://devukay.github.io/NFT-Card-Widget-challenge/)
 
 ## My process
 
@@ -43,8 +43,6 @@ Users should be able to:
 
 - Frontend Mentor - [@DevUKay](https://www.frontendmentor.io/profile/DevUKay)
 - Twitter - [@kingkayyy](https://twitter.com/kingkayyy)
-
-
 
 ## Acknowledgments
 
