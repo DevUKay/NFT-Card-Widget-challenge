@@ -21,6 +21,162 @@
     <title>Frontend Mentor | NFT preview card component</title>
 
     <link rel="stylesheet" href="styles.css" />
+    <style>
+
+*{
+    Padding: 0;
+    margin: 0;
+    font-family: 'Outfit', sans-serif;
+}
+
+body {
+    box-sizing: border-box;
+    background-color: hsl(217, 54%, 11%);
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    height: 100vh;
+    
+}
+.top-img{
+    transition: .3s ease;
+    opacity: 0;
+    position: absolute;
+    top: 32%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    text-align: center;
+       
+      
+}
+
+.container-bg:hover .imgg {
+    /* opacity: 0.3; */
+    mix-blend-mode: screen;
+    background-color: hsl(184, 100%, 50%);
+  }
+
+.container-bg .imgg {
+    background-color: hsl(178, 100%, 50%);
+}
+
+.container-bg:hover .top-img {
+    opacity: 1;
+    /* background-color: hsl(178, 100%, 50%); */
+      }
+
+.container-bg{
+    background-color:  hsl(216, 50%, 16%);
+    /* background-color:  hsl(215, 37%, 66%); */
+    /* width: 18vw; */
+    border-radius: 20px;
+    padding: 1rem;
+    
+}
+
+.imgg{
+    height: 20rem;
+    border-radius: 15px;
+    /* background-color: hsl(178, 100%, 50%); */
+
+}
+
+  
+.imgg:hover{
+    background-color: hsl(178, 100%, 50%);
+    /* mix-blend-mode: plus-lighter; */
+    cursor: pointer;
+    /* opacity: 0.3; */
+}
+h2{
+    text-align: left;
+    padding: 1rem 1rem .5rem 1rem;
+    font-weight: 600;
+    color: white;
+}
+h2:hover{
+    color: hsl(178, 100%, 50%);
+    cursor: pointer;
+    scale: .2s;
+}
+p{
+    text-align: left;
+    padding: 0 1rem .5rem 1rem;  
+    font-size: 1.125rem;
+    font-weight: 200;
+    color:hsl(215, 51%, 70%)
+
+}
+.img1{
+    padding: 0 .5rem 0 0;
+}
+.img2{
+    padding: 0 .5rem 0 0;
+}
+.mid-ctn1 {
+    display: flex;
+    justify-content: flex-start;
+    color: hsl(178, 100%, 50%);
+    font-size: 16px;
+    font-weight: 500;
+    letter-spacing: 1px;
+}
+
+.mid-ctn2 {
+    display: flex;
+    justify-content: flex-end;
+    margin: auto;
+    font-size: 16px;
+    color:hsl(215, 51%, 70%)
+    
+}
+.middle{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    padding: 1.5rem 0 1rem 0;
+    
+
+}
+
+.horizontal-line{
+    display: inline-block;
+    background-color: hsl(215, 32%, 27%);
+    height: 0.0625rem;
+    width: 18rem;
+}
+
+.footer{
+    align-items: left;
+    text-align: left;
+    padding: 0 1rem;
+
+}
+.footer-img{
+    height: 2.5rem;
+    padding: .5rem 1rem 1rem 0; 
+    vertical-align: middle;
+    text-align: left;
+}
+
+li {
+    list-style: none;
+    color:hsl(215, 51%, 70%);
+    font-weight: 300;
+    
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+a:hover{
+    color: hsl(178, 100%, 50%);
+    }
+
+    </style>
   </head>
   <body>
     <main>
