@@ -5,14 +5,10 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
+- [The challenge](#the-challenge)
+- [Screenshot](#screenshot)
+- [Built with](#built-with)
+- [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
@@ -31,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [My GitHub Page](https://github.com/DevUKay/NFT-Card-Widget-challenge.git)
+- Live Site URL: [My Live Design]https://devukay.github.io/NFT-Card-Widget-challenge/)
 
 ## My process
 
@@ -41,16 +37,15 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 - Mobile-first workflow
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@DevUKay](https://www.frontendmentor.io/profile/DevUKay)
+- Twitter - [@kingkayyy](https://twitter.com/kingkayyy)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
+
 
 ## Acknowledgments
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
+My grateful to me for not giving up, lol the battle for the repo to online was real hahhaha, but yea,i finally did it. so enjoy.
